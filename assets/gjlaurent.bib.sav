@@ -1,0 +1,1158 @@
+% Encoding: UTF-8
+
+@STRING{AIM = {Proc. of the IEEE/ASME Int. Conf. on Advanced Intelligent Mechatronics}}
+
+@STRING{CASE = {Proc. of the IEEE Int. Conf. on Automation Science and Engineering}}
+
+@STRING{ICRA = {Proc. of the IEEE Int. Conf. on Robotics and Automation}}
+
+@STRING{IJO = {International Journal of Optomechatronics}}
+
+@STRING{IJRR = {Int. Journal of Robotics Research}}
+
+@STRING{IROS = {Proc. of the IEEE/RSJ Int. Conf. on Intelligent Robots and Systems}}
+
+@STRING{ISOT = {Proc. of the IEEE Int. Symp. on Optomechatronic Technologies}}
+
+@STRING{JFPDA = {Journées Francophones sur la Planification, la Décision et l'Apprentissage
+	pour la conduite de systèmes}}
+
+@STRING{JMM = {Journal of Micromechanics and Microengineering }}
+
+@STRING{MECH = {IFAC Mechatronics}}
+
+@STRING{TASE = {IEEE Transactions on Automation Science and Engineering}}
+
+@STRING{TI = {Techniques de l'ingénieur}}
+
+@STRING{TMECH = {IEEE/ASME Transactions on Mechatronics}}
+
+@STRING{TRO = {IEEE Transactions on robotics}}
+
+@Patent{Laurent2016poignet,
+  author      = {Laurent, Guillaume and Dahmouche, Redwan and Haouas, Wissem and Piat, Nadine},
+  title       = {Poignet robotique parallèle à quatre degrés de liberté},
+  number      = {FR3057192A1},
+  year        = {2018},
+  date        = {2018-04-13},
+  file        = {Laurent2016poignet.pdf:papers/Laurent2016poignet.pdf:PDF},
+  groups      = {BRE},
+  language    = {fr},
+  nationality = {Français},
+  timestamp   = {2017.01.31},
+  yearfiled   = {2016},
+}
+
+@Conference{AsmadVergara2016inplane,
+  author    = {Asmad Vergara, M. and Jacquot, M. and Laurent, G. J. and Sandoz, P.},
+  title     = {In-plane position and orientation measurement of a mobile target by digital holography},
+  booktitle = {Latin America Optics and Photonics Conference (Optical Society of America)},
+  year      = {2016},
+  note      = {paper LTh3C.3},
+  doi       = {10.1364/LAOP.2016.LTh3C.3},
+  file      = {Asmad2016inplane.pdf:papers/Asmad2016inplane.pdf:PDF},
+  groups    = {ACTI, High Resolution Visual Measurements},
+  timestamp = {2017.01.11},
+}
+
+@Article{Guelpa2016modular,
+  author    = {Guelpa, Valérian and Laurent, Guillaume J. and Dahroug, Bassem and Le Fort-Piat, Nadine},
+  title     = {Modular Contact-Free Conveyors for Handling Planar Fragile Objects},
+  journal   = {IEEE Transactions on Robotics},
+  year      = {2016},
+  volume    = {33},
+  number    = {1},
+  pages     = {92--101},
+  doi       = {10.1109/TRO.2016.2623340},
+  file      = {Guelpa2016modular.pdf:papers/Guelpa2016modular.pdf:PDF},
+  groups    = {ACL, Distributed Manipulation with Air Flow},
+  timestamp = {2017.01.07},
+}
+
+@InProceedings{Guelpa2016pattern,
+  author    = {Guelpa, V. and Sandoz, P. and Clévy, C. and Le Fort-Piat, N. and Laurent, G. J.},
+  title     = {Pattern-based vision for microrobotic manipulators calibration and servoing},
+  booktitle = {International Conference on Ubiquitous Robots and Ambient Intelligence},
+  year      = {2016},
+  month     = {Aug},
+  pages     = {308--310},
+  doi       = {10.1109/URAI.2016.7734048},
+  file      = {Guelpa2016pattern.pdf:papers/Guelpa2016pattern.pdf:PDF},
+  groups    = {INV, ACTI, High Resolution Visual Measurements},
+  timestamp = {2017.01.11},
+}
+
+@InProceedings{Guelpa2016single,
+  author    = {Guelpa, V. and Laurent, G. J. and Tamadazte, B. and Sandoz, P. and Le Fort-Piat, N. and Clévy, C.},
+  title     = {Single frequency-based visual servoing for microrobotics applications},
+  booktitle = IROS,
+  year      = {2016},
+  month     = {Oct},
+  pages     = {4274--4279},
+  doi       = {10.1109/IROS.2016.7759629},
+  file      = {Guelpa2016single.pdf:papers/Guelpa2016single.pdf:PDF},
+  groups    = {ACTI, High Resolution Visual Measurements},
+  timestamp = {2017.01.11},
+}
+
+@Conference{Guelpa2016twinscale,
+  author    = {Guelpa, Valérian and Sandoz, Patrick and Clévy, Cédric and Le Fort-Piat, Nadine and Laurent, Guillaume J.},
+  title     = {Twin-Scale Visual Method for Nanoposition and Microforce Measurements with Large Range-to-Resolution Ratio},
+  booktitle = {International Conference on Manipulation, Automation and Robotics at Small Scales},
+  year      = {2016},
+  month     = {July 20},
+  file      = {Guelpa2016twinscale.pdf:papers/Guelpa2016twinscale.pdf:PDF},
+  groups    = {COM},
+  timestamp = {2017.01.11},
+}
+
+@Article{Guelpa2016visual,
+  author    = {Guelpa, Valérian and Sandoz, Patrick and Vergara, Miguel Asmad and Clévy, Cédric and Le Fort-Piat, Nadine and Laurent, Guillaume J.},
+  title     = {{2D} visual micro-position measurement based on intertwined twin-scale patterns},
+  journal   = {Sensors and Actuators A: Physical},
+  year      = {2016},
+  volume    = {248},
+  pages     = {272--280},
+  doi       = {10.1016/j.sna.2016.08.002},
+  file      = {Guelpa2016visual.pdf:papers/Guelpa2016visual.pdf:PDF},
+  groups    = {ACL, High Resolution Visual Measurements},
+  timestamp = {2017.01.08},
+}
+
+@InProceedings{Haouas2016spherical,
+  author    = {Haouas, W. and Dahmouche, R. and Le Fort-Piat, N. and Laurent, G. J.},
+  title     = {{4-DoF} spherical parallel wrist with embedded grasping capability for minimally invasive surgery},
+  booktitle = IROS,
+  year      = {2016},
+  month     = {Oct},
+  pages     = {2363--2368},
+  doi       = {10.1109/IROS.2016.7759368},
+  file      = {Haouas2016spherical.pdf:papers/Haouas2016spherical.pdf:PDF},
+  groups    = {ACTI, Microrobots Design and Modelling},
+  timestamp = {2017.01.11},
+}
+
+@InProceedings{Komati2016automated,
+  author    = {Komati, B. and Kudryavtsev, A. and Clévy, C. and Laurent, G. and Tamadazte, B. and Agnus, J. and Lutz, P.},
+  title     = {Automated robotic microassembly of flexible optical components},
+  booktitle = {Proc. of the IEEE International Symposium on Assembly and Manufacturing (ISAM)},
+  year      = {2016},
+  month     = {Aug},
+  pages     = {93--98},
+  doi       = {10.1109/ISAM.2016.7750721},
+  file      = {Komati2016automated.pdf:papers/Komati2016automated.pdf:PDF},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2017.01.11},
+}
+
+@InProceedings{Ourak2016automated,
+  author    = {Ourak, M. and De Simone, A. and Tamadazte, B. and Laurent, G. J. and Menciassi, A. and Andreff, N.},
+  title     = {Automated in-plane {OCT}-probe positioning towards repetitive optical biopsies},
+  booktitle = ICRA,
+  year      = {2016},
+  month     = {May},
+  pages     = {4186--4191},
+  doi       = {10.1109/ICRA.2016.7487612},
+  file      = {Ourak2016automated.pdf:papers/Ourak2016automated.pdf:PDF},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2017.01.11},
+}
+
+@Article{Tan2016compressive,
+  author    = {Tan, Ning and Clévy, Cédric and Laurent, Guillaume J. and Chaillet, Nicolas},
+  title     = {Compressive Sensing-Based Metrology for Micropositioning Stages Characterization},
+  journal   = {IEEE Robotics and Automation Letters},
+  year      = {2016},
+  volume    = {1},
+  number    = {2},
+  pages     = {638--645},
+  doi       = {10.1109/LRA.2016.2523550},
+  file      = {Tan2016compressive.pdf:papers/Tan2016compressive.pdf:PDF},
+  groups    = {ACL, Microrobots Calibration and Control by Vision},
+  timestamp = {2017.01.08},
+}
+
+@InProceedings{Dahroug2015design,
+  author    = {Dahroug, Bassem and Laurent, Guillaume J. and Guelpa, Valérian and Le Fort-Piat, Nadine},
+  title     = {Design, modeling and control of a modular contactless wafer handling system},
+  booktitle = ICRA,
+  year      = {2015},
+  note      = {Best Automation Paper Award},
+  pages     = {976--981},
+  doi       = {10.1109/ICRA.2015.7139295},
+  file      = {Dahroug2015design.pdf:papers/Dahroug2015design.pdf:PDF},
+  groups    = {ACTI, Distributed Manipulation with Air Flow},
+  timestamp = {2015.04.13},
+}
+
+@Article{Guelpa2015vision,
+  author    = {Guelpa, Valérian and Laurent, Guillaume J. and Sandoz, Patrick and Clévy, Cédric},
+  title     = {Vision-Based Microforce Measurement with a Large Range-to-Resolution Ratio using a Twin-Scale Pattern},
+  journal   = TMECH,
+  year      = {2015},
+  volume    = {20},
+  number    = {6},
+  pages     = {3148--3156},
+  doi       = {10.1109/TMECH.2015.2407053},
+  file      = {Guelpa2015vision.pdf:papers/Guelpa2015vision.pdf:PDF},
+  groups    = {ACL, High Resolution Visual Measurements},
+  timestamp = {2015.04.13},
+}
+
+@Article{Kudryavtsev2015analysis,
+  author    = {Kudryavtsev, Andrey and Laurent, Guillaume J. and Clévy, Cédric and Tamadazte, Brahim and Lutz, Philippe},
+  title     = {Analysis of {CAD} Model-based Visual Tracking for Microassembly using a New Block Set for {MATLAB/Simulink}.},
+  journal   = IJO,
+  year      = {2015},
+  volume    = {9},
+  number    = {4},
+  pages     = {295--309},
+  doi       = {10.1080/15599612.2015.1059532},
+  file      = {Kudryavtsev2015analysis.pdf:papers/Kudryavtsev2015analysis.pdf:PDF},
+  groups    = {ACL, Microrobots Calibration and Control by Vision},
+  timestamp = {2015.07.13},
+}
+
+@InProceedings{Kudryavtsev2015stereovision,
+  author    = {Kudryavtsev, Andrey V. and Laurent, Guillaume J. and Clévy, Cédric and Tamadazte, Brahim and Lutz, Philippe},
+  title     = {Stereovision-based control for automated {MOEMS} assembly},
+  booktitle = IROS,
+  year      = {2015},
+  month     = {Sept},
+  pages     = {1391--1396},
+  doi       = {10.1109/IROS.2015.7353549},
+  file      = {Kudryavtsev2015stereovision.pdf:papers/Kudryavtsev2015stereovision.pdf:PDF},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2015.12.23},
+}
+
+@Article{Laurent2015survey,
+  author    = {Laurent, Guillaume J. and Moon, Hyungpil},
+  title     = {A survey of non-prehensile pneumatic manipulation surfaces: principles, models and control},
+  journal   = {Intelligent Service Robotics},
+  year      = {2015},
+  volume    = {8},
+  number    = {3},
+  pages     = {151--163},
+  doi       = {10.1007/s11370-015-0175-0},
+  file      = {Laurent2015survey.pdf:papers/Laurent2015survey.pdf:PDF},
+  groups    = {ACL, Distributed Manipulation with Air Flow},
+  timestamp = {2015.07.13},
+}
+
+@Article{Tan2015accuracy,
+  author    = {Tan, Ning and Clévy, Cédric and Laurent, Guillaume J. and Sandoz, Patrick and Chaillet, Nicolas},
+  title     = {Accuracy Quantification and Improvement of Serial Micropositioning Robots for In-Plane Motions},
+  journal   = TRO,
+  year      = {2015},
+  volume    = {31},
+  number    = {6},
+  month     = {Dec},
+  pages     = {1497--1507},
+  doi       = {10.1109/TRO.2015.2498301},
+  file      = {Tan2015accuracy.pdf:papers/Tan2015accuracy.pdf:PDF},
+  groups    = {ACL, Microrobots Calibration and Control by Vision},
+  timestamp = {2015.12.23},
+}
+
+@Article{Guelpa2014subpixelic,
+  author    = {Guelpa, Valérian and Laurent, Guillaume J. and Sandoz, Patrick and Galeano Zea, July and Clévy, Cédric},
+  title     = {Subpixelic Measurement of Large 1D Displacements: Principle, Processing Algorithms, Performances and Software},
+  journal   = {Sensors},
+  year      = {2014},
+  volume    = {14},
+  number    = {3},
+  pages     = {5056--5073},
+  doi       = {10.3390/s140305056},
+  file      = {Guelpa2014subpixelic.pdf:papers/Guelpa2014subpixelic.pdf:PDF;Guelpa2014subpixelic.pdf:papers/Guelpa2014subpixelic.pdf:PDF},
+  groups    = {ACL, High Resolution Visual Measurements},
+  timestamp = {2014.03.14},
+}
+
+@InProceedings{Kudryavtsev2014characterization,
+  author    = {Kudryavtsev, Andrey V. and Laurent, Guillaume J. and Clévy, Cédric and Tamadazte, Brahim and Lutz, Philippe},
+  title     = {Characterization of Model-based Visual Tracking Techniques for {MOEMS} using a New Block Set for {MATLAB/Simulink}},
+  booktitle = ISOT,
+  year      = {2014},
+  month     = {November 5-7},
+  doi       = {10.1109/ISOT.2014.47},
+  address   = {Seattle, USA},
+  file      = {Kudryavtsev2014characterization.pdf:papers/Kudryavtsev2014characterization.pdf:PDF},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2014.12.22},
+}
+
+@Conference{Laurent2014contactless,
+  author    = {Laurent, Guillaume J.},
+  title     = {Contactless Manipulation with Airflow: from Macro to Micro Devices},
+  booktitle = {Workshop on merging micro and macro manipulation and manufacturing technologies and methods, joint to AIM},
+  year      = {2014},
+  month     = {July 7th},
+  address   = {Besançon, France},
+  file      = {Laurent2014contactless.pdf:papers/Laurent2014contactless.pdf:PDF;Laurent2014contactless.pdf:papers/Laurent2014contactless.pdf:PDF},
+  groups    = {COM},
+  timestamp = {2014.07.15},
+}
+
+@Article{Laurent2014micropositionning,
+  author    = {Laurent, Guillaume J. and Delettre, Anne and Zeggari, Rabah and Yahiaoui, Reda and Manceau, Jean-François and Le Fort-Piat, Nadine},
+  title     = {Micropositioning and Fast Transport Using a Contactless Micro-Conveyor},
+  journal   = {Micromachines},
+  year      = {2014},
+  volume    = {5},
+  number    = {1},
+  pages     = {66--80},
+  issn      = {2072-666X},
+  doi       = {10.3390/mi5010066},
+  file      = {Laurent2014micropositionning.pdf:papers/Laurent2014micropositionning.pdf:PDF;Laurent2014micropositionning.pdf:papers/Laurent2014micropositionning.pdf:PDF},
+  groups    = {ACL, Distributed Manipulation with Air Flow},
+  timestamp = {2014.02.21},
+}
+
+@InProceedings{Matusek2014characterization,
+  author    = {Matusek, Ondrej and Hotar, Vlastimil and Laurent, Guillaume J. and Tamadazte, Brahim and Clévy, Cédric},
+  title     = {Characterization of the Positioning Accuracy and Precision of {MEMS} Die Servoing Using Model-Based Visual Tracking},
+  booktitle = {International Robtep Conference},
+  year      = {2014},
+  volume    = {613},
+  series    = {Applied Mechanics and Materials},
+  month     = {May, 15-17th},
+  pages     = {426--433},
+  doi       = {10.4028/www.scientific.net/AMM.613.426},
+  address   = {Strbské Pleso, Vysoké Tatry, Slovakia},
+  file      = {Matusek2014characterization.pdf:papers/Matusek2014characterization.pdf:PDF},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2014.11.25},
+}
+
+@InProceedings{Tan2014characterization,
+  author    = {Tan, Ning and Clévy, Cédric and Laurent, Guillaume J. and Sandoz, Patrick and Chaillet, Nicolas},
+  title     = {Characterization and Compensation of {XY} Micropositioning Robots using Vision and Pseudo-Periodic Encoded Patterns},
+  booktitle = ICRA,
+  year      = {2014},
+  pages     = {2819--2824},
+  doi       = {10.1109/ICRA.2014.6907263},
+  address   = {Hong Kong, China},
+  file      = {Tan2014characterization.pdf:papers/Tan2014characterization.pdf:PDF;Tan2014characterization.pdf:papers/Tan2014characterization.pdf:PDF},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2014.06.19},
+}
+
+@Article{Agnus2013robotic,
+  author    = {Agnus, J. and Chaillet, N. and Clévy, C. and Dembélé, S. and Gauthier, M. and Haddab, Y. and Laurent, G. and Lutz, P. and Piat, N. and Rabenorosoa, K. and Rakotondrabe, M. and Tamadazte, B.},
+  title     = {Robotic microassembly and micromanipulation at {FEMTO-ST}},
+  journal   = {Journal of Micro-Bio Robotics},
+  year      = {2013},
+  volume    = {8},
+  pages     = {91--106},
+  doi       = {10.1007/s12213-013-0065-5},
+  file      = {Agnus2013robotic.pdf:papers/Agnus2013robotic.pdf:PDF;Agnus2013robotic.pdf:papers/Agnus2013robotic.pdf:PDF},
+  groups    = {ACL, Distributed Manipulation with Air Flow},
+  timestamp = {2013.02.14},
+}
+
+@Article{Galeano2013twin,
+  author    = {Galeano Zea, July and Sandoz, Patrick and Laurent, Guillaume J. and Lopes Lemos, Lucas and Clévy, Cédric},
+  title     = {Twin-scale Vernier Micro-pattern for Visual Measurement of 1-D in-plane Absolute Displacements with Increased Range-to-Resolution Ratio},
+  journal   = IJO,
+  year      = {2013},
+  volume    = {7},
+  number    = {3},
+  pages     = {222--234},
+  doi       = {10.1080/15599612.2013.808493},
+  file      = {Galeano2013twin.pdf:papers/Galeano2013twin.pdf:PDF;Galeano2013twin.pdf:papers/Galeano2013twin.pdf:PDF},
+  groups    = {ACL, High Resolution Visual Measurements},
+  timestamp = {2013.08.19},
+}
+
+@Article{Piranda2013new,
+  author    = {Piranda, Benoît and Laurent, Guillaume J. and Bourgeois, Julien and Clévy, Cédric and Möbes, Sebastian and Le Fort-Piat, Nadine},
+  title     = {A new concept of planar self-reconfigurable modular robot for conveying microparts},
+  journal   = MECH,
+  year      = {2013},
+  volume    = {23},
+  number    = {7},
+  pages     = {906--915},
+  doi       = {10.1016/j.mechatronics.2013.08.009},
+  file      = {Piranda2013new.pdf:papers/Piranda2013new.pdf:PDF;Piranda2013new.pdf:papers/Piranda2013new.pdf:PDF},
+  groups    = {ACL, Microrobots Design and Modelling},
+  timestamp = {2013.10.31},
+}
+
+@Book{Zanuttini2013apprentissage,
+  title     = {Apprentissage par renforcement et planification adaptative},
+  year      = {2013},
+  editor    = {Bruno Zanuttini and Guillaume Laurent, and Olivier Buffet},
+  volume    = {27},
+  series    = {Revue d'Intelligence Artificielle, numéro spécial},
+  number    = {2},
+  publisher = {Lavoisier},
+  groups    = {DOR},
+  month     = {Mars-Avril},
+  timestamp = {2013.10.16},
+}
+
+@Article{Delettre2012robust,
+  author    = {Delettre, Anne and Laurent, Guillaume J. and Haddab, Yassine and Le Fort-Piat, Nadine},
+  title     = {Robust control of a planar manipulator for flexible and contactless handling},
+  journal   = MECH,
+  year      = {2012},
+  volume    = {22},
+  number    = {6},
+  pages     = {852--861},
+  doi       = {10.1016/j.mechatronics.2012.05.003},
+  file      = {Delettre2012robust.pdf:papers/Delettre2012robust.pdf:PDF;Delettre2012robust.pdf:papers/Delettre2012robust.pdf:PDF},
+  groups    = {ACL, Distributed Manipulation with Air Flow},
+  timestamp = {2012.09.11},
+}
+
+@InProceedings{Delettre2012three,
+  author    = {Delettre, Anne and Laurent, Guillaume J. and Le Fort-Piat, Nadine and Varnier, Christophe},
+  title     = {{3-DoF} potential air flow manipulation by inverse modeling control},
+  booktitle = CASE,
+  year      = {2012},
+  pages     = {926--931},
+  doi       = {10.1109/CoASE.2012.6386380},
+  file      = {Delettre2012three.pdf:Delettre2012three.pdf:PDF;Delettre2012three.pdf:papers/Delettre2012three.pdf:PDF},
+  groups    = {ACTI, Distributed Manipulation with Air Flow},
+  timestamp = {2012.05.14},
+}
+
+@Conference{Delettre2012threeb,
+  author    = {Delettre, Anne and Laurent, Guillaume J. and Le Fort-Piat, Nadine and Varnier, Christophe},
+  title     = {{3-DoF} contactless manipulation using potential air flows},
+  booktitle = {microControl'12 Workshop, New Trends and Challenges in Modeling and Control of Microsystems},
+  year      = {2012},
+  month     = {May 31 - June 01},
+  address   = {Besançon, France},
+  groups    = {COM},
+  timestamp = {2014.06.19},
+}
+
+@InProceedings{Galeano2012twin,
+  author    = {Galeano Zea, July and Sandoz, Patrick and Laurent, Guillaume J. and Lopes Lemos, Lucas and Clévy, Cédric},
+  title     = {Twin-scale Vernier Micro-Pattern for Visual Measurement of {1D} in-plane Absolute Displacements with Increased Range-to-Resolution Ratio},
+  booktitle = ISOT,
+  year      = {2012},
+  pages     = {1--6},
+  doi       = {10.1080/15599612.2013.808493},
+  file      = {Galeano2012twin.pdf:papers/Galeano2012twin.pdf:PDF;Galeano2012twin.pdf:papers/Galeano2012twin.pdf:PDF},
+  groups    = {ACTI, High Resolution Visual Measurements},
+  timestamp = {2012.12.10},
+}
+
+@Conference{Habibi2012distributed,
+  author    = {Habibi, Amirali and Dedu, Eugen and Bourgeois, Julien and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Distributed Pneumatic {MEMS} for Fast Conveyance of Fragile Objects},
+  booktitle = {Junior Researcher Workshop on Real-Time Computing (JRWRTC'12), joint to RTNS},
+  year      = {2012},
+  month     = {Nov.},
+  pages     = {4},
+  address   = {Pont-à-Mousson, France},
+  file      = {Habibi2012distributed.pdf:papers/Habibi2012distributed.pdf:PDF;Habibi2012distributed.pdf:papers/Habibi2012distributed.pdf:PDF},
+  groups    = {COM},
+  timestamp = {2014.06.19},
+}
+
+@Article{Ivan2012high,
+  author    = {Ivan, Ioan Alexandru and Ardeleanu, Mihai and Laurent, Guillaume J.},
+  title     = {High Dynamics and Precision Optical Measurement Using a Position Sensitive Detector (PSD) in Reflection-Mode: Application to 2D Object Tracking over a Smart Surface},
+  journal   = {Sensors},
+  year      = {2012},
+  volume    = {12},
+  number    = {12},
+  pages     = {16771--16784},
+  doi       = {10.3390/s121216771},
+  file      = {Ivan2012high.pdf:papers/Ivan2012high.pdf:PDF},
+  groups    = {ACL, Microrobots Calibration and Control by Vision},
+  timestamp = {2012.12.10},
+}
+
+@InProceedings{Ivan2012metrology,
+  author    = {Ivan, Ioan Alexandru and Ardeleanu, Mihai and Laurent, Guillaume J. and Tang, Ning and Clévy, Cédric},
+  title     = {The metrology and applications of {PSD} (position sensitive detector) sensors for microrobotics},
+  booktitle = ISOT,
+  year      = {2012},
+  pages     = {1--2},
+  doi       = {10.1109/ISOT.2012.6403287},
+  abstract  = {The position sensitive (or sensing) detectors (PSD) are special special
+	monolithic PIN photodiodes featuring a series of lateral electrodes
+	in order to achieve a 1D or 2D displacement measurement of an optical
+	spot. Compared to the discrete array sensors, the PSD have many advantages
+	including high positioning resolution, fast response time and very
+	simple analogue signal conditioning circuits. This paper investigates
+	the metrology of a two-dimensional PSD working alternately in direct
+	or indirect (reflective) mode. The possible applications consist
+	in precise assembly of optical MEMS micromirrors or fast tracking
+	of an object over a pneumatic smart-surface. The first results showed
+	a good linearity and a fast response time, which successfully enable
+	such applications for PSD sensors.},
+  file      = {Ivan2012metrology.pdf:papers/Ivan2012metrology.pdf:PDF},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2012.12.10},
+}
+
+@Article{Matignon2012independent,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Independent Reinforcement Learners In Cooperative Markov Games: A Survey Regarding Coordination Problems},
+  journal   = {The Knowledge Engineering Review},
+  year      = {2012},
+  volume    = {27},
+  pages     = {1--31},
+  doi       = {10.1017/S0269888912000057},
+  file      = {Matignon2012independent.pdf:Matignon2012independent.pdf:PDF;Matignon2012independent.pdf:papers/Matignon2012independent.pdf:PDF},
+  groups    = {ACL, Decentralized Reinforcement Learning},
+  timestamp = {2009.06.30},
+}
+
+@InProceedings{Moebes2012toward,
+  author    = {Möbes, Sebastian and Piranda, Benoît and Laurent, Guillaume J. and Bourgeois, Julien and Clévy, Cédric and Le Fort-Piat, Nadine},
+  title     = {Toward a {2D} Modular and Self-Reconfigurable Robot for Conveying Microparts},
+  booktitle = {Proc. of the IEEE dMEMS Workshop on Design, Control and Software Implementation for Distributed MEMS},
+  year      = {2012},
+  publisher = {IEEE CPS},
+  pages     = {7--13},
+  doi       = {10.1109/dMEMS.2012.20},
+  file      = {Moebes2012toward.pdf:Moebes2012toward.pdf:PDF},
+  groups    = {ACTI, Microrobots Design and Modelling},
+  timestamp = {2012.04.05},
+}
+
+@InProceedings{Tan2012calibration,
+  author    = {Tan, Ning and Clévy, Cédric and Laurent, Guillaume J. and Chaillet, Nicolas},
+  title     = {Calibration and Validation of {XYT} Micropositioners with Vision},
+  booktitle = AIM,
+  year      = {2012},
+  pages     = {256--261},
+  doi       = {10.1109/AIM.2012.6266031},
+  file      = {Tan2012calibration.pdf:Tan2012calibration.pdf:PDF;Tan2012calibration.pdf:papers/Tan2012calibration.pdf:PDF},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2012.05.14},
+}
+
+@InProceedings{Delettre2011two,
+  author    = {Delettre, Anne and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {{2-DoF} Contactless Distributed Manipulation Using Superposition of Induced Air Flows},
+  booktitle = IROS,
+  year      = {2011},
+  pages     = {5121--5126},
+  doi       = {10.1109/IROS.2011.6094586},
+  file      = {Delettre2011two.pdf:Delettre2011two.pdf:PDF;Delettre2011two.pdf:papers/Delettre2011two.pdf:PDF},
+  groups    = {ACTI, Distributed Manipulation with Air Flow},
+  timestamp = {2012.02.16},
+}
+
+@Article{Laurent2011new,
+  author    = {Laurent, Guillaume J. and Delettre, Anne and Le Fort-Piat, Nadine},
+  title     = {A new aerodynamic traction principle for handling products on an air cushion},
+  journal   = TRO,
+  year      = {2011},
+  volume    = {27},
+  number    = {2},
+  pages     = {379--384},
+  doi       = {10.1109/TRO.2011.2109211},
+  file      = {Laurent2011new.pdf:papers/Laurent2011new.pdf:PDF;Laurent2011new.pdf:papers/Laurent2011new.pdf:PDF},
+  groups    = {ACL, Distributed Manipulation with Air Flow},
+  timestamp = {2010.12.06},
+}
+
+@Article{Laurent2011world,
+  author    = {Laurent, Guillaume J. and Matignon, Laëtitia and Le Fort-Piat, Nadine},
+  title     = {The World of Independent Learners is not Markovian},
+  journal   = {Innovation in Knowledge-Based \& Intelligent Engineering Systems},
+  year      = {2011},
+  volume    = {15},
+  number    = {1},
+  pages     = {55--64},
+  doi       = {10.3233/KES-2010-0206},
+  file      = {Laurent2011world.pdf:Laurent2011world.pdf:PDF;Laurent2011world.pdf:papers/Laurent2011world.pdf:PDF},
+  groups    = {ACL, Decentralized Reinforcement Learning},
+  timestamp = {2009.05.19},
+}
+
+@InProceedings{Boutoustous2010distributed,
+  author    = {Boutoustous, Kahina and Laurent, Guillaume J. and Dedu, Eugen and Matignon, Laëtitia and Bourgeois, Julien and Le Fort-Piat, Nadine},
+  title     = {Distributed control architecture for smart surfaces},
+  booktitle = IROS,
+  year      = {2010},
+  pages     = {2018--2024},
+  doi       = {10.1109/IROS.2010.5650668},
+  file      = {Boutoustous2010distributed.pdf:papers/Boutoustous2010distributed.pdf:PDF;Boutoustous2010distributed.pdf:papers/Boutoustous2010distributed.pdf:PDF},
+  groups    = {ACTI, Distributed Manipulation with Air Flow},
+  timestamp = {2010.03.02},
+}
+
+@InProceedings{Delettre2010new,
+  author    = {Delettre, Anne and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {A new contactless conveyor system for handling clean and delicate products using induced air flows},
+  booktitle = IROS,
+  year      = {2010},
+  pages     = {2351--2356},
+  doi       = {10.1109/IROS.2010.5652194},
+  file      = {Delettre2010new.pdf:papers/Delettre2010new.pdf:PDF},
+  groups    = {ACTI, Distributed Manipulation with Air Flow},
+  timestamp = {2010.03.02},
+}
+
+@Article{Haddab2010matlab,
+  author    = {Haddab, Yassine and Lang, Bernard and Laurent, Guillaume},
+  title     = {Matlab/Simulink pour l'analyse et la commande de systèmes},
+  journal   = {Techniques de l'ingénieur},
+  year      = {2010},
+  language  = {fr},
+  volume    = {TIB394DUO},
+  number    = {s7460},
+  pages     = {1--16},
+  url       = {https://www.techniques-ingenieur.fr/base-documentaire/automatique-robotique-th16/regulation-et-commande-des-systemes-asservis-42394210/matlab-simulink-pour-l-analyse-et-la-commande-de-systemes-s7460/},
+  file      = {Haddab2010matlab.pdf:papers/Haddab2010matlab.pdf:PDF},
+  groups    = {ASCL},
+  timestamp = {2010.03.31},
+}
+
+@Conference{Laurent2010mise,
+  author    = {Guillaume Laurent},
+  title     = {Mise en pratique de {LSPI} pour la commande linéaire quadratique adaptative d'une surface de manipulation à coussin d'air actif},
+  booktitle = JFPDA,
+  year      = {2010},
+  language  = {fr},
+  address   = {Besançon},
+  file      = {Laurent2010mise.pdf:papers/Laurent2010mise.pdf:PDF},
+  groups    = {COM},
+  timestamp = {2010.10.27},
+}
+
+@InCollection{Laurent2010online,
+  author    = {Guillaume Laurent},
+  title     = {On-Line Learning for Micro-Object Manipulation},
+  booktitle = {Markov Decision Processes in Artificial Intelligence},
+  year      = {2010},
+  editor    = {Olivier Sigaud and Olivier Buffet},
+  publisher = {Wiley-ISTE},
+  isbn      = {978-1-848-21167-4},
+  file      = {Laurent2010online.pdf:papers/Laurent2010online.pdf:PDF},
+  groups    = {COS, On-Line Learning},
+  timestamp = {2010.02.16},
+}
+
+@Article{Matignon2010designing,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine and Chapuis, Yves-André},
+  title     = {Designing decentralized controllers for distributed-air-jet {MEMS}-based micromanipulators by reinforcement learning},
+  journal   = {Journal of Intelligent and Robotic Systems},
+  year      = {2010},
+  volume    = {59},
+  number    = {2},
+  pages     = {145--166},
+  doi       = {10.1007/s10846-010-9396-9},
+  file      = {Matignon2010designing.pdf:papers/Matignon2010designing.pdf:PDF;Matignon2010designing.pdf:papers/Matignon2010designing.pdf:PDF},
+  groups    = {ACL, Distributed Manipulation with Air Flow, Decentralized Reinforcement Learning},
+  timestamp = {2009.06.30},
+}
+
+@Conference{Laurent2009smart,
+  author    = {Laurent, Guillaume},
+  title     = {Projet Smart Surface},
+  booktitle = {Journées du GdR Micro et Nano Systèmes},
+  year      = {2009},
+  address   = {Besançon},
+  groups    = {AFF},
+  timestamp = {2010.10.28},
+}
+
+@InProceedings{Matignon2009design,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Design of semi-decentralized control laws for distributed-air-jet micromanipulators by reinforcement learning},
+  booktitle = IROS,
+  year      = {2009},
+  pages     = {3277--3283},
+  doi       = {10.1109/IROS.2009.5353902},
+  file      = {Matignon2009design.pdf:papers/Matignon2009design.pdf:PDF},
+  groups    = {ACTI, Distributed Manipulation with Air Flow, Decentralized Reinforcement Learning},
+  timestamp = {2009.06.30},
+}
+
+@Conference{Matignon2009soan,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {{SOaN}: un algorithme pour la coordination d'agents apprenants et non communicants},
+  booktitle = JFPDA,
+  year      = {2009},
+  language  = {fr},
+  month     = {2-3 juin},
+  pages     = {115--121},
+  address   = {Paris},
+  file      = {Matignon2009soan.pdf:papers/Matignon2009soan.pdf:PDF},
+  groups    = {COM},
+  timestamp = {2010.03.09},
+}
+
+@InCollection{Laurent2008apprentissage,
+  author    = {Guillaume Laurent},
+  title     = {Apprentissage en ligne de la manipulation de micro-objets},
+  booktitle = {Processus décisionnels de Markov en intelligence artificielle~: volume 1, principes généraux et applications},
+  year      = {2008},
+  editor    = {Olivier Buffet and Olivier Sigaud},
+  language  = {fr},
+  series    = {Traité IC2, Informatique et systèmes d'information},
+  publisher = {Hermès Science Publications},
+  isbn      = {978-2746220577},
+  pages     = {221--232},
+  groups    = {COS},
+  timestamp = {2008.01.15},
+}
+
+@PhdThesis{Matignon2008phd,
+  author      = {Matignon, Laëtitia},
+  title       = {Synthèse d'agents adaptatifs et coopératifs par apprentissage par renforcement. Application à la commande d'un système distribué de micromanipulation},
+  institution = {Université de Franche-Comté},
+  year        = {2008},
+  date        = {2008-12-04},
+  month       = {4 décembre},
+  address     = {Besançon},
+  groups      = {TH},
+  school      = {Université de Franche-Comté},
+  timestamp   = {2010.03.09},
+}
+
+@Conference{Matignon2008study,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {A study of {FMQ} heuristic in cooperative multi-agent games},
+  booktitle = {Int. Conf. on Autonomous Agents and Multiagent Systems, Multi-Agent Sequential Decision Making in Uncertain Multi-Agent Domains Workshop},
+  year      = {2008},
+  pages     = {77--91},
+  file      = {Matignon2008study.pdf:papers/Matignon2008study.pdf:PDF},
+  groups    = {COM, Decentralized Reinforcement Learning},
+  timestamp = {2008.09.16},
+}
+
+@Conference{Matignon2007algorithme,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Un algorithme décentralisé d'apprentissage par renforcement multi-agents coopératifs : le Q-Learning Hystérétique},
+  booktitle = JFPDA,
+  year      = {2007},
+  language  = {fr},
+  month     = {Juillet},
+  pages     = {115--121},
+  address   = {Grenoble},
+  file      = {Matignon2007algorithme.pdf:papers/Matignon2007algorithme.pdf:PDF},
+  groups    = {COM},
+  timestamp = {2008.01.10},
+}
+
+@Conference{Matignon2007controle,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Contrôle distribué d'une Smart surface par Apprentissage par Renforcement},
+  booktitle = {6èmes Journées Nationales de la Recherche en Robotique, JNRR'07},
+  year      = {2007},
+  note      = {6 pages},
+  address   = {Obernai, France},
+  groups    = {AFF},
+  timestamp = {2009.12.15},
+}
+
+@InProceedings{Matignon2007hysteretic,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Hysteretic {Q}-Learning : an algorithm for Decentralized Reinforcement Learning in Cooperative Multi-Agent Teams},
+  booktitle = IROS,
+  year      = {2007},
+  month     = {Oct 29 - Nov 2},
+  pages     = {64--69},
+  doi       = {10.1109/IROS.2007.4399095},
+  address   = {San Diego, CA, USA},
+  file      = {Matignon2007hysteretic.pdf:papers/Matignon2007hysteretic.pdf:PDF},
+  groups    = {ACTI, Decentralized Reinforcement Learning},
+  timestamp = {2008.01.10},
+}
+
+@Article{Laurent2006apprentissage,
+  author   = {Laurent, Guillaume J. and Piat, Emmanuel},
+  title    = {Apprentissage par renforcement dans le cadre des processus décisionnels de Markov factorisés observables dans le désordre},
+  journal  = {Revue d'Intelligence Artificielle},
+  year     = {2006},
+  language = {fr},
+  volume   = {20},
+  pages    = {275--309},
+  doi      = {10.3166/ria.20.275-310},
+  file     = {Laurent2006apprentissage.pdf:papers/Laurent2006apprentissage.pdf:PDF},
+  groups   = {ACL, Decentralized Reinforcement Learning},
+}
+
+@Conference{Matignon2006choix,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Choix de la fonction de renforcement et des valeurs initiales pour accélérer les problèmes d'apprentissage par renforcement de plus court chemin stochastique},
+  booktitle = JFPDA,
+  year      = {2006},
+  language  = {fr},
+  month     = {10-12 mai},
+  pages     = {107--114},
+  address   = {Toulouse},
+  file      = {Matignon2006choix.pdf:papers/Matignon2006choix.pdf:PDF},
+  groups    = {COM},
+  timestamp = {2006.10.05},
+}
+
+@InProceedings{Matignon2006improving,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Improving Reinforcement Learning Speed for Robot Control},
+  booktitle = IROS,
+  year      = {2006},
+  month     = {Oct. 9--15},
+  pages     = {3172--3177},
+  doi       = {10.1109/IROS.2006.282341},
+  address   = {Beijing, China},
+  file      = {Matignon2006improving.pdf:papers/Matignon2006improving.pdf:PDF},
+  groups    = {ACTI, On-Line Learning},
+  timestamp = {2006.09.06},
+}
+
+@InProceedings{Matignon2006reward,
+  author    = {Matignon, Laëtitia and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Reward Function and Initial Values: Better Choices for Accelerated Goal-Directed Reinforcement Learning},
+  booktitle = {Proc. of the Int. Conf. on Artificial Neural Networks},
+  year      = {2006},
+  editor    = {S.D. Kollias and A. Stafylopatis and W. Duch and E. Oja},
+  volume    = {4131},
+  series    = {Lecture Notes in Computer Science},
+  publisher = {Springer-Verlag},
+  pages     = {840--849},
+  doi       = {10.1007/11840817_87},
+  file      = {Matignon2006reward.pdf:papers/Matignon2006reward.pdf:PDF},
+  groups    = {ACTI, On-Line Learning},
+  timestamp = {2006.09.06},
+}
+
+@InProceedings{Adda2005learning,
+  author    = {Adda, Cédric and Laurent, Guillaume J. and Le Fort-Piat, Nadine},
+  title     = {Learning to control a real micropositioning system in the {STM-Q} framework},
+  booktitle = ICRA,
+  year      = {2005},
+  month     = {April 18--22},
+  pages     = {4580--4585},
+  doi       = {10.1109/ROBOT.2005.1570824},
+  address   = {Barcelone, Spain},
+  file      = {Adda2005learning.pdf:papers/Adda2005learning.pdf:PDF},
+  groups    = {ACTI, On-Line Learning},
+}
+
+@Conference{Laurent2005bosar,
+  author    = {Laurent, Guillaume and Piat, Emmanuel and Adda, Cédric and Le Fort-Piat, Nadine},
+  title     = {{BOSAR}~: Bibliothèque d'Outils Simulink pour l'apprentissage par renforcement},
+  booktitle = {Journées Nationales sur les Processus Décisionnels de Markov et l'Intelligence Artificielle},
+  year      = {2005},
+  language  = {fr},
+  month     = {22 et 23 juin},
+  pages     = {108--112},
+  address   = {Lille},
+  file      = {Laurent2005bosar.pdf:papers/Laurent2005bosar.pdf:PDF},
+  groups    = {COM},
+  timestamp = {2006.03.08},
+}
+
+@Conference{Adda2004micropositioning,
+  author    = {Adda, Cédric and Le Fort-Piat, Nadine and Laurent, Guillaume},
+  title     = {Micropositioning by pushing with control by reinforcement learning},
+  booktitle = {35th International Symposium on Robotics},
+  year      = {2004},
+  month     = {March 23--26},
+  address   = {Paris, France},
+  file      = {Adda2004micropositioning.pdf:papers/Adda2004micropositioning.pdf:PDF},
+  groups    = {COM},
+}
+
+@Conference{Adda2003micropositionnement,
+  author    = {Adda, Cédric and Laurent, Guillaume and Le Fort-Piat, Nadine},
+  title     = {Micropositionnement d'objets micrométriques commandé par apprentissage par renforcement},
+  booktitle = {Journées Nationales sur les Processus Décisionnels de Markov et Intelligence Artificielle},
+  year      = {2003},
+  language  = {fr},
+  month     = {3--4 Décembre},
+  pages     = {40--48},
+  address   = {Bourges},
+  groups    = {COM},
+}
+
+@Article{Laurent2003conception,
+  author   = {Laurent, Guillaume J. and Piat, Emmanuel},
+  title    = {Conception et modélisation d'un microrobot nageur},
+  journal  = {Journal Européen des Systèmes Automatisés},
+  year     = {2003},
+  language = {fr},
+  volume   = {37},
+  number   = {1},
+  pages    = {31--48},
+  doi      = {10.3166/jesa.37.31-48},
+  file     = {Laurent2003conception.pdf:papers/Laurent2003conception.pdf:PDF},
+  groups   = {ACL, Microrobots Design and Modelling},
+}
+
+@Conference{Laurent2003dyna-q,
+  author    = {Laurent, Guillaume J. and Piat, Emmanuel},
+  title     = {Dyna-{Q} Parallèle},
+  booktitle = {Journées Nationales sur les Processus Décisionnels de Markov et l'Intelligence Artificielle},
+  year      = {2003},
+  language  = {fr},
+  month     = {2 Juin},
+  address   = {Caen},
+  file      = {Laurent2003dyna-q.pdf:papers/Laurent2003dyna-q.pdf:PDF},
+  groups    = {COM},
+}
+
+@Conference{Laurent2003learning,
+  author    = {Laurent, Guillaume J. and Piat, Emmanuel},
+  title     = {Learning to control real systems with parallel {D}yna-{Q}},
+  booktitle = {6th European Workshop On Reinforcement Learning},
+  year      = {2003},
+  month     = {September 4--5},
+  pages     = {45--46},
+  address   = {Nancy, France},
+  file      = {Laurent2003learning.pdf:papers/Laurent2003learning.pdf:PDF},
+  groups    = {COM},
+}
+
+@InProceedings{Laurent2002learning,
+  author    = {Laurent, Guillaume J. and Piat, Emmanuel},
+  title     = {Learning Mixed Behaviours with Parallel {Q}-learning},
+  booktitle = IROS,
+  year      = {2002},
+  volume    = {1},
+  month     = {September 30 -- October 4},
+  pages     = {1002--1007},
+  doi       = {10.1109/IRDS.2002.1041521},
+  address   = {Lausanne, Switzerland},
+  file      = {Laurent2002learning.pdf:papers/Laurent2002learning.pdf:PDF},
+  groups    = {ACTI, On-Line Learning},
+}
+
+@PhdThesis{Laurent2002phd,
+  author      = {Laurent, Guillaume},
+  title       = {Synthèse de comportements par apprentissages par renforcement parallèles~: application à la commande d'un micromanipulateur plan},
+  institution = {Université de Franche-Comté},
+  year        = {2002},
+  date        = {2002-12-18},
+  type        = {Thèse de doctorat},
+  address     = {Besançon, France},
+  file        = {Laurent2002phd.pdf:papers/Laurent2002phd.pdf:PDF},
+  groups      = {TH},
+  school      = {Université de Franche-Comté},
+}
+
+@Conference{Laurent2001commande,
+  author    = {Laurent, Guillaume and Piat, Emmanuel},
+  title     = {Commande de micromanipulateurs plans par apprentissage par renforcement},
+  booktitle = {14èmes Journées des Jeunes Chercheurs en Robotique},
+  year      = {2001},
+  language  = {fr},
+  month     = {31 Mai -- 1er Juin},
+  pages     = {20--25},
+  address   = {Evry},
+  file      = {Laurent2001commande.pdf:papers/Laurent2001commande.pdf:PDF},
+  groups    = {COM},
+}
+
+@Conference{Laurent2001control,
+  author    = {Laurent, Guillaume and Piat, Emmanuel},
+  title     = {Control of planar micro-manipulator systems using reinforcement learning},
+  booktitle = {3rd European-Asian Mecatronics Congress},
+  year      = {2001},
+  month     = {October 9--11},
+  pages     = {411--416},
+  address   = {Besançon, France},
+  file      = {Laurent2001control.pdf:papers/Laurent2001control.pdf:PDF},
+  groups    = {COM},
+}
+
+@InProceedings{Laurent2001efficiency,
+  author    = {Laurent, Guillaume and Piat, Emmanuel},
+  title     = {Efficiency of Swimming Microrobots using Ionic Polymer Metal Composite Actuators},
+  booktitle = ICRA,
+  year      = {2001},
+  month     = {May 21--26},
+  pages     = {3914--3919},
+  doi       = {10.1109/ROBOT.2001.933227},
+  address   = {Seoul, Korea},
+  file      = {Laurent2001efficiency.pdf:papers/Laurent2001efficiency.pdf:PDF},
+  groups    = {ACTI, Microrobots Design and Modelling},
+}
+
+@InProceedings{Laurent2001parallel,
+  author    = {Laurent, Guillaume and Piat, Emmanuel},
+  title     = {Parallel {Q}-Learning for a block-pushing problem},
+  booktitle = IROS,
+  year      = {2001},
+  volume    = {1},
+  month     = {October 29 -- November 3},
+  pages     = {286--291},
+  doi       = {10.1109/IROS.2001.973372},
+  address   = {Maui, USA},
+  file      = {Laurent2001parallel.pdf:papers/Laurent2001parallel.pdf:PDF},
+  groups    = {ACTI, On-Line Learning},
+}
+
+@Article{Haouas2017new,
+  author    = {Haouas, Wissem and Dahmouche, Redwan and Agnus, Joël and Le Fort-Piat, Nadine and Laurent, Guillaume J.},
+  title     = {New integrated silicon-PDMS process for compliant micro-mechanisms},
+  journal   = {Journal of Micromechanics and Microengineering},
+  year      = {2017},
+  volume    = {27},
+  number    = {12},
+  doi       = {10.1088/1361-6439/aa858b},
+  file      = {:papers/Haouas2018new.pdf:PDF},
+  groups    = {ACL, Microrobots Design and Modelling},
+  timestamp = {2017.12.16},
+}
+
+@InProceedings{Guelpa2017printed,
+  author    = {Guelpa, V. and Prax, J. S. and Vitry, Y. and Lehmann, O. and Dehaeck, S. and Sandoz, P. and Clévy, C. and Le Fort-Piat, N. and Lambert, P. and Laurent, G. J.},
+  title     = {3D-printed vision-based micro-force sensor dedicated to in situ SEM measurements},
+  booktitle = AIM,
+  year      = {2017},
+  pages     = {424--429},
+  doi       = {10.1109/AIM.2017.8014054},
+  groups    = {ACTI, High Resolution Visual Measurements},
+  timestamp = {2017.12.16},
+}
+
+@InProceedings{Baran2017preliminary,
+  author    = {Baran, Y. and Rabenorosoa, K. and Laurent, G. J. and Rougeot, P. and Andreff, N. and Tamadazte, B.},
+  title     = {Preliminary Results on OCT-based Position Control of a Concentric Tube Robot},
+  booktitle = IROS,
+  year      = {2017},
+  pages     = {3000--3005},
+  doi       = {10.1109/IROS.2017.8206137},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2017.12.16},
+}
+
+@InProceedings{Jacquot2017multiscale,
+  author    = {Jacquot, Maxime and Asmad Vergara, Miguel A. and Laurent, Guillaume and Sandoz, Patrick},
+  title     = {Multiscale lensless visual position sensing by digital holography},
+  booktitle = {2017 European Conference on Lasers and Electro-Optics and European Quantum Electronics Conference},
+  year      = {2017},
+  publisher = {Optical Society of America},
+  groups    = {ACTI, High Resolution Visual Measurements},
+  timestamp = {2017.12.16},
+}
+
+@Article{Haouas2018new,
+  author    = {Haouas, Wissem and Dahmouche, Redwan and Le Fort-Piat, Nadine and Laurent, Guillaume J.},
+  title     = {A New Seven Degrees-of-Freedom Parallel Robot With a Foldable Platform},
+  journal   = {Journal of Mechanisms and Robotics},
+  year      = {2018},
+  volume    = {10},
+  number    = {4},
+  doi       = {10.1115/1.4039693},
+  file      = {:papers/Haouas2018new.pdf:PDF},
+  groups    = {ACL, Microrobots Design and Modelling},
+  publisher = {ASME},
+  timestamp = {2019.03.14},
+}
+
+@InProceedings{Sandoz2018enlarging,
+  author    = {Sandoz, Patrick and Jacquot, Maxime and Guelpa, Valérian and Galeano Zea, July A. and Gaiffe, Emilie and Asmad Vergara, Miguel and Clévy, Cédric and Laurent, Guillaume J.},
+  title     = {Enlarging computer-vision sensing-capabilities using pseudo-periodic patterns},
+  booktitle = {Latin America Optics and Photonics Conference (Optical Society of America)},
+  year      = {2018},
+  publisher = {Optical Society of America},
+  doi       = {10.1364/LAOP.2018.W4B.4},
+  groups    = {ACTI, High Resolution Visual Measurements},
+  journal   = {Latin America Optics and Photonics Conference},
+  timestamp = {2019.04.01},
+}
+
+@InProceedings{Haouas2018analysis,
+  author    = {Haouas, Wissem and Dahmouche, Redwan and Laurent, Guillaume J.},
+  title     = {Analysis of an Integrated 4-DoF Parallel Wrist for Dexterous Gripping},
+  booktitle = CASE,
+  year      = {2018},
+  pages     = {1448--1453},
+  doi       = {10.1109/COASE.2018.8560701},
+  groups    = {ACTI, Microrobots Design and Modelling},
+  timestamp = {2019.04.01},
+}
+
+@InProceedings{Jacquot2018frequency,
+  author    = {Jacquot, Maxime and Asmad Vergara, Miguel and Laurent, Guillaume and Sandoz, Patrick},
+  title     = {Frequency domain processing of digital holograms applied to high-accurate vision-based position control in micro-robotics},
+  booktitle = {SPIE Photonics West},
+  year      = {2018},
+  volume    = {10558},
+  doi       = {10.1117/12.2287560},
+  groups    = {ACTI, High Resolution Visual Measurements},
+  timestamp = {2019.04.01},
+}
+
+@InProceedings{Ourak2018geometric,
+  author    = {Ourak, Mouloud and Tamadazte, Brahim and Laurent, Guillaume J. and Andreff, Nicolas},
+  title     = {Geometric Calibration of an OCT Imaging System},
+  booktitle = ICRA,
+  year      = {2018},
+  pages     = {3993--3999},
+  doi       = {10.1109/ICRA.2018.8463171},
+  groups    = {ACTI, Microrobots Calibration and Control by Vision},
+  timestamp = {2019.04.01},
+}
+
+@Article{AsmadVergara2018digital,
+  author    = {Asmad Vergara, Miguel and Jacquot, Maxime and Laurent, Guillaume J. and Sandoz, Patrick},
+  title     = {Digital Holography as Computer Vision Position Sensor with an Extended Range of Working Distances},
+  journal   = {Sensors},
+  year      = {2018},
+  volume    = {18},
+  number    = {7},
+  doi       = {10.3390/s18072005},
+  groups    = {ACL, High Resolution Visual Measurements},
+  publisher = {MDPI},
+  timestamp = {2019.04.01},
+}
+
+@PhdThesis{Delettre2011phd,
+  author      = {Anne Delettre},
+  title       = {Conception, modélisation et commande d'une surface de manipulation sans contact à flux d'air induit},
+  institution = {Université de Franche-Comté},
+  year        = {2011},
+  date        = {2011-12-07},
+  groups      = {TH},
+  timestamp   = {2019.04.03},
+}
+
+@PhdThesis{Guelpa2017phd,
+  author      = {Valérian Guelpa},
+  title       = {Etalonnage et commande de microrobots par mesure visuelle sub-pixellique et multi- directionnelle},
+  institution = {Université de Bourgogne Franche-Comté},
+  year        = {2017},
+  date        = {2017-12-08},
+  groups      = {TH},
+  timestamp   = {2019.04.03},
+}
+
+@PhdThesis{Haouas2018phd,
+  author      = {Wissem Haouas},
+  title       = {Étude et développement de robots parallèles à plateformes configurables pour la micromanipulation dextre},
+  institution = {Université de Bourgogne Franche-Comté},
+  year        = {2018},
+  date        = {2018-11-14},
+  groups      = {TH},
+  timestamp   = {2019.04.03},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:ACL\;0\;1\;\;\;Articles dans des revues internationales ou nationales avec comité de lecture répertoriées dans les bases de données internationales\;;
+1 StaticGroup:ACLN\;0\;1\;\;\;Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales\;;
+1 StaticGroup:ASCL\;0\;1\;\;\;Articles dans des revues sans comité de lecture\;;
+1 StaticGroup:COS\;0\;1\;\;\;Chapitres d'ouvrages scientifiques\;;
+1 StaticGroup:BRE\;0\;1\;\;\;Brevets\;;
+1 StaticGroup:ACTI\;0\;1\;\;\;Communications avec actes dans un congrès international\;;
+1 StaticGroup:ACTN\;0\;1\;\;\;Communications avec actes dans un congrès national\;;
+1 StaticGroup:INV\;0\;1\;\;\;Conférences données à l'invitation du Comité d'organisation dans un congrès national ou international\;;
+1 StaticGroup:COM\;0\;1\;\;\;Communications orales sans actes dans un congrès international ou national\;;
+1 StaticGroup:AFF\;0\;1\;\;\;Communications par affiche dans un congrès international ou national\;;
+1 StaticGroup:DOR\;0\;1\;\;\;Direction de revues et de numéros spéciaux\;;
+1 StaticGroup:TH\;0\;1\;\;\;Thèses\;;
+1 StaticGroup:Microrobots Design and Modelling\;0\;1\;\;\;\;;
+1 StaticGroup:High Resolution Visual Measurements\;0\;1\;\;\;\;;
+1 StaticGroup:Microrobots Calibration and Control by Vision\;0\;1\;\;\;\;;
+1 StaticGroup:Distributed Manipulation with Air Flow\;0\;1\;\;\;\;;
+1 StaticGroup:Decentralized Reinforcement Learning\;0\;1\;\;\;\;;
+1 StaticGroup:On-Line Learning\;0\;1\;\;\;\;;
+}
