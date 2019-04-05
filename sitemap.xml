@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/example/</loc>
-<lastmod>2019-04-04T11:59:06+02:00</lastmod>
+<lastmod>2019-04-05T11:08:26+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2017-11-23-example-content-ii/</loc>
+<loc>http://localhost:4000/pages/2017-11-23-example-content-ii/</loc>
 <lastmod>2017-11-23T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2018-06-01-example-content-iii/</loc>
+<loc>http://localhost:4000/pages/2018-06-01-example-content-iii/</loc>
 <lastmod>2018-06-01T00:00:00+02:00</lastmod>
 </url>
 <url>
@@ -178,6 +178,10 @@
 <url>
 <loc>http://localhost:4000/assets/papers/Guelpa2016visual.pdf</loc>
 <lastmod>2017-01-07T14:29:25+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/papers/Guelpa2017phd.pdf</loc>
+<lastmod>2019-04-05T10:27:51+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/papers/Guelpa2017printed.pdf</loc>
@@ -381,6 +385,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/Resume.pdf</loc>
-<lastmod>2019-04-03T11:05:59+02:00</lastmod>
+<lastmod>2019-04-05T11:08:25+02:00</lastmod>
 </url>
 </urlset>
